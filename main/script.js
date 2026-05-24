@@ -1,0 +1,3 @@
+const CONSTELLATION_LINES = Array.isArray(window.CONSTELLATION_LINES)
+  ? window.CONSTELLATION_LINES
+  : [];
